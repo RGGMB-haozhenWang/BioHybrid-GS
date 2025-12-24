@@ -7,7 +7,7 @@ Unlike traditional GBLUP or standard deep learning models, this **Bio-Hybrid Tra
 
 This repository contains the implementation described in our manuscript.
 
-![Uploading image.png…]()
+![The mechanism-driven genomic intelligence framework integrating multi-omics stress sensing for cold tolerance prediction in rice](BioHybrid.png)
 
 
 ## Key Features
