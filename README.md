@@ -5,7 +5,10 @@ Unlike traditional GBLUP or standard deep learning models, this **Bio-Hybrid Tra
 1.  **Background Stream:** Captures polygenic background effects using genome-wide markers.
 2.  **Bio-Prior Stream:** Captures large-effect loci using a Transformer encoder focused on biologically significant markers derived from **GWAS**, **Differential Alternative Splicing (DAS)**, and **WGCNA Hub Genes**.
 
-This repository contains the implementation described in our manuscript (submitted to *Plant Communications*).
+This repository contains the implementation described in our manuscript.
+
+![Uploading image.png…]()
+
 
 ## Key Features
 
