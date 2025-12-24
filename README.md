@@ -2,7 +2,7 @@
 **BioHybrid-GS** is a deep learning framework designed to enhance Genomic Prediction (GP) accuracy for complex traits (e.g., cold tolerance in rice) by integrating biological priors. 
 
 Unlike traditional GBLUP or standard deep learning models, this **Bio-Hybrid Transformer Ensemble** employs a dual-stream architecture:
-1.  **Background Stream:** Captures polygenic background effects using genome-wide random markers.
+1.  **Background Stream:** Captures polygenic background effects using genome-wide markers.
 2.  **Bio-Prior Stream:** Captures large-effect loci using a Transformer encoder focused on biologically significant markers derived from **GWAS**, **Differential Alternative Splicing (DAS)**, and **WGCNA Hub Genes**.
 
 This repository contains the implementation described in our manuscript (submitted to *Plant Communications*).
