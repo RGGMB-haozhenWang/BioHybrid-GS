@@ -22,10 +22,3 @@ This repository contains the implementation described in our manuscript.
 * **OS:** Linux / macOS / Windows
 * **Python:** 3.9 or higher
 * **Hardware:** 16GB RAM recommended. The code is optimized for CPU efficiency but supports CUDA/MPS if configured.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Haozhen/BioHybrid-GS.git](https://github.com/Haozhen/BioHybrid-GS.git)
-   cd BioHybrid-GS
